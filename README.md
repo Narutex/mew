@@ -1,1 +1,2 @@
-# mew
+# synchronousBallMovement
+Ball moving synchronously
